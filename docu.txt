@@ -1,1 +1,2 @@
 crando un nuevo proyecto con .gitignore
+segundo cambio al archivo
